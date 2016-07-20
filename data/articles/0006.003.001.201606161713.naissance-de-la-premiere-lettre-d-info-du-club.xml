@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Naissance de la première lettre d'info du club]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[<p>Le club Drac Vercors Escalade a le plaisir de vous faire part de la naissance de sa toute première lettre d'info !</p>]]></chapo>
+	<content><![CDATA[<p>Son objectif est de rendre compte de la vie du club sous ses différentes formes, et de permettre également à tous ses acteurs, bénévoles, salariés, partenaires, de se connaître et de communiquer. Elle rend compte des événements organisés et à venir, des formations, des résultats de compétitions, des sorties... Cette lettre est la vôtre, si vous avez des idées à faire paraître, des suggestions... N'hésitez pas. Bonne lecture et à bientôt !</p>
+
+<p>&nbsp;</p>
+
+<div class="button icon fa-download align-center">newsletter #1</div>
+
+<p>&nbsp;</p>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<thumbnail><![CDATA[data/medias/news/newsletter.jpg]]></thumbnail>
+	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
+	<thumbnail_title><![CDATA[]]></thumbnail_title>
+	<date_creation><![CDATA[201606191713]]></date_creation>
+	<date_update><![CDATA[201607231741]]></date_update>
+</document>

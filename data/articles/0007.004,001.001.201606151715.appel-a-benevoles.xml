@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Appel à benévoles]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[<p>Votre club a besoin de vous !</p>]]></chapo>
+	<content><![CDATA[<p>Dans les semaines qui viennent, plusieurs événements importants vont être organisés par ou avec le club et nous faisons appel à vous pour nous aider à leur réussite : tout le monde peut aider à sa manière ! Nous vous attendons nombreux :</p>
+
+<ul>
+	<li>le dimanche 1er mai de 13h30 à 17h30 à Gérard Philippe pour la Fête omnisport de Fontaine</li>
+	<li>le dimanche 6 juin à Espace Vertical pour notre grand open de Bloc jeunes !</li>
+	<li>le dimanche 11 juin à la fête du sport de Sassenage</li>
+</ul>
+
+<p>Toutes les informations et les liens pour s'inscrire sont ici.</p>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<thumbnail><![CDATA[data/medias/news/benevoles.jpg]]></thumbnail>
+	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
+	<thumbnail_title><![CDATA[]]></thumbnail_title>
+	<date_creation><![CDATA[201606191715]]></date_creation>
+	<date_update><![CDATA[201607231820]]></date_update>
+</document>

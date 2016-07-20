@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<categorie number="004" active="1" homepage="1" tri="desc" bypage="6" menu="non" url="a-la-une" template="categorie.php"><name><![CDATA[À la une]]></name><description><![CDATA[]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></categorie>
+	<categorie number="003" active="1" homepage="1" tri="desc" bypage="6" menu="oui" url="vie-du-club" template="categorie.php"><name><![CDATA[Vie du club]]></name><description><![CDATA[]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></categorie>
+	<categorie number="002" active="1" homepage="1" tri="desc" bypage="6" menu="oui" url="competition" template="categorie.php"><name><![CDATA[Compétition]]></name><description><![CDATA[]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></categorie>
+	<categorie number="001" active="1" homepage="1" tri="desc" bypage="5" menu="oui" url="evenements" template="categorie.php"><name><![CDATA[Événements]]></name><description><![CDATA[]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></categorie>
+</document>

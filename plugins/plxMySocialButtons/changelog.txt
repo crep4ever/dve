@@ -1,0 +1,22 @@
+## Version 1.4.1 (06/11/2014) ##
+[+] Chargement des fichiers javascript que si nécessaire (contribution Jormun)
+
+## Version 1.4 (15/07/2014) ##
+[+] Ajout du hook MySocialButtonsStatic pour afficher les boutons sociaux sur une page statique (contribution Etienne R)
+[+] Utilisation du menu "Code css" du plugin pour définir les propriétés css de .social-buttons, au lieu d'être codé en dur dans le plugin
+[+] Mise à jour de l'aide
+BUG echo en trop lors de l'appel de $plxShow->artUrl()
+
+## Version 1.3 (13/11/2012) ##
+Validation html5 (contribution aruhuno)
+
+## Version 1.2 (08/12/2011) ##
+BUG Validation XHTML
+
+## Version 1.1 (01/12/2011) ##
+[+] Prise en compte de la langue par défaut de PluXml au niveau de Twitter et Google+1
+[+] Meilleur format des données envoyées sur tweeter
+[+] Valdiation html5 du bouton google+1
+
+## Version 1.0 (30/11/2011) ##
+version initiale

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Challenge interne 2015]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[De la bonne humeur et de la sueur pour cette rencontre de Noël entre les adhérents des différents créneaux Adultes et Ados.]]></chapo>
+	<content><![CDATA[<ul class="horizontal align-center">
+<li><a href="https://www.facebook.com/160141077367724/videos/945441162171041/" class="button icon fa-video-camera">Vidéo (4min30)</a></li>
+<li><a href="https://drive.google.com/folderview?id=0BxJ_DodAbzhpQ3Y2NGZtMlBFS0k&usp=sharing" class="button icon fa-camera">Photos (Sandrine)</a></li>
+<li><a href="https://goo.gl/photos/Cm64P2oB5JdKcjNr8" class="button icon fa-camera">Photos (Thomas)</a></li>
+</ul>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<thumbnail><![CDATA[data/medias/news/01.jpg]]></thumbnail>
+	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
+	<thumbnail_title><![CDATA[]]></thumbnail_title>
+	<date_creation><![CDATA[201606182243]]></date_creation>
+	<date_update><![CDATA[201606202006]]></date_update>
+</document>

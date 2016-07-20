@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<user number="001" active="1" profil="0" delete="0">
+		<login><![CDATA[romain.goffe]]></login>
+		<name><![CDATA[Romain Goffe]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[01b40e3333df1f1d8a973b4b6ad3f446790f18c4]]></password>
+		<salt><![CDATA[KCw6vxyWN5]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
+	<user number="002" active="1" profil="1" delete="0">
+		<login><![CDATA[viviane.leguy]]></login>
+		<name><![CDATA[Viviane Leguy]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[74b69b4738b39b9c394a4a59f169f83951bfe0fd]]></password>
+		<salt><![CDATA[unDGDypy3E]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
+	<user number="003" active="1" profil="1" delete="0">
+		<login><![CDATA[melanie.hovan]]></login>
+		<name><![CDATA[Mélanie Hovan]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[13fad21b21995891cbe4e1fd675a611ca8d6b0ec]]></password>
+		<salt><![CDATA[8sl4fViJ6I]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
+</document>

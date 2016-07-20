@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[DVE recrute]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[<p>Le club recrute pour la rentrée 2016 un nouveau Agent de développement. Il s'agit d'un CDI à mi-temps. Vous trouverez toutes les infos en téléchargeant la fiche de poste.</p>]]></chapo>
+	<content><![CDATA[<p>&nbsp;</p>
+
+<div class="button icon fa-download">fiche de poste</div>
+
+<p>&nbsp;</p>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<thumbnail><![CDATA[data/medias/news/default.png]]></thumbnail>
+	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
+	<thumbnail_title><![CDATA[]]></thumbnail_title>
+	<date_creation><![CDATA[201606191710]]></date_creation>
+	<date_update><![CDATA[201607231745]]></date_update>
+</document>

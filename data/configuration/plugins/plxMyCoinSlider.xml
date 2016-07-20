@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="jquery" type="numeric">1</parameter>
+	<parameter name="width" type="numeric">500</parameter>
+	<parameter name="height" type="numeric">300</parameter>
+	<parameter name="spw" type="numeric">7</parameter>
+	<parameter name="sph" type="numeric">5</parameter>
+	<parameter name="delay" type="numeric">3000</parameter>
+	<parameter name="sDelay" type="numeric">30</parameter>
+	<parameter name="opacity" type="string">0.7</parameter>
+	<parameter name="titleSpeed" type="numeric">500</parameter>
+	<parameter name="effect" type="string">straight</parameter>
+	<parameter name="navigation" type="numeric">1</parameter>
+	<parameter name="links" type="numeric">0</parameter>
+	<parameter name="hoverPause" type="numeric">1</parameter>
+</document>
