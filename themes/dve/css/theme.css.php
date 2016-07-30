@@ -213,6 +213,10 @@ Containers
   width: 97%;
 }
 
+.margin{
+  margin: 3em;
+}
+
 .iframecontainer {
   width: 80%;
   height: 0;
@@ -1001,6 +1005,7 @@ section.preview  p {
 main.main {
   background-color: #fff;
   margin: 46px auto 1em auto;
+  padding-bottom: 1em;
   width: 100%;
 }
 .repertory {
@@ -1288,6 +1293,10 @@ Calendar
 Newsletter
 *******************************************************************************/
 fieldset {
+  border-color: white;
+}
+
+section.light fieldset {
   border-color: <?php echo $color_secondary_medium ?>;
 }
 

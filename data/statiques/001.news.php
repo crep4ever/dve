@@ -104,7 +104,7 @@ function staticUrl($p_static_id)
 
       </form>
 
-      <a class="more" href="#">Voir les newsletters précédentes</a>
+      <a class="more" href=<?php staticUrl('009') ?> >Voir les newsletters précédentes</a>
 
     </section>
   </div>
