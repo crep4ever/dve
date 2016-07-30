@@ -1,8 +1,17 @@
+<p class="important">
+L'intégration aux groupes entraînements/compétition se fait sur sélection et/ou proposition des entraîneurs.<br />
+<b>Infos&nbsp: </b><a class="icon fa-envelope" href="mailto:fabien.viguier@ac-grenoble.fr">fabien.viguier@ac-grenoble.fr</a>
+</p>
+ 
+<p class="important">
+Tous les compétiteurs du club doivent lire et signer la <a class="icon fa-file" href="#">charte du compétiteur</a> lors des inscriptions. 
+</p>
+
 <h4> Microbes/Poussins entraînements </h4>
 
 <ul class="icons">
 <li class="icon fa-users"><b>Public : </b>9-12 ans (nés en 2006-2009) - 20 places (2 groupes)</li>
-<li class="icon fa-envelope"><b>Entraîneur : </b>Mickaël Guilbaud - guilbaudmickael@gmail.com</li>
+<li class="icon fa-user"><b>Entraîneur : </b>Mickaël Guilbaud - <a class="icon fa-envelope" href="mailto:guilbaudmickael@gmail.com">guilbaudmickael@gmail.com</a></li>
 <li class="icon fa-dot-circle-o"><b>Objectifs : </b>Initiation à l'entraînement, les premières compétitions...pour les petits grimpeurs motivés ! Préparation aux groupes compétitions.</li>
 <li class="icon fa-calendar">Deux entraînements hebdomadaires</li>
 <b>Groupe A (à partir de 6a environ)</b>
@@ -25,7 +34,7 @@
 
 <ul class="icons">
 <li class="icon fa-users"><b>Public : </b>13-15 ans (nés en 2005-2002) - 14 places. Niveau minimum : 6b minimes/6a benjamins</li>
-<li class="icon fa-envelope"><b>Entraîneur : </b>Mickaël Guilbaud - guilbaudmickael@gmail.com</li>
+<li class="icon fa-user"><b>Entraîneur : </b>Mickaël Guilbaud - <a class="icon fa-envelope" href="mailto:guilbaudmickael@gmail.com">guilbaudmickael@gmail.com</a></li>
 <li class="icon fa-dot-circle-o"><b>Objectifs : </b>Performance en compétition et falaise.</li>
 <li class="icon fa-calendar">Trois entraînements hebdomadaires (2 entraînements pour les Benjamins)</li>
 <ul>
@@ -40,7 +49,7 @@
 
 <ul class="icons">
 <li class="icon fa-users"><b>Public : </b>16-19 ans (nés en 1998-2001) - 14 places. Niveau minimum : 7a filles, 7b garçons.</li>
-<li class="icon fa-envelope"><b>Entraîneur : </b>Colas Robert - colasrobert@yahoo.fr</li>
+<li class="icon fa-user"><b>Entraîneur : </b>Colas Robert - <a class="icon fa-envelope" href="mailto:colasrobert@yahoo.fr">colasrobert@yahoo.fr</a></li>
 <li class="icon fa-dot-circle-o"><b>Objectifs : </b>Performance en compétition et falaise.</li>
 <li class="icon fa-calendar">Trois entraînements hebdomadaires</li>
 <ul>
