@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://dve-club.fr/sitemap.php
