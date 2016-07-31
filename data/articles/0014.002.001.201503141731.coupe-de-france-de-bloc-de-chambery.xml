@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document>
-	<title><![CDATA[Coupe de France de Bloc de Chambéry]]></title>
+	<title><![CDATA[Coupe de France de Bloc 2015 - Chambéry]]></title>
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
-	<content><![CDATA[Belle perf de Nico 9° (surclassé en Sénior) et Méris 15° en Cadette. 
+	<content><![CDATA[<p>Belle perf de Nico 9° (surclassé en Sénior) et Méris 15° en Cadette. Résultats http://fontaine-en-montagne.ffcam.fr/competitions.html</p>
 
-Résultats
-
-http://fontaine-en-montagne.ffcam.fr/competitions.html]]></content>
+<a href="http://www.ffme.fr/uploads/escalade/resultats/2015/bloc/2015-cdf-bloc-chambery.pdf" class="button icon fa-trophy">Résultats</a>]]></content>
 	<tags><![CDATA[]]></tags>
 	<meta_description><![CDATA[]]></meta_description>
 	<meta_keywords><![CDATA[]]></meta_keywords>
@@ -17,5 +15,5 @@ http://fontaine-en-montagne.ffcam.fr/competitions.html]]></content>
 	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
 	<thumbnail_title><![CDATA[]]></thumbnail_title>
 	<date_creation><![CDATA[201606191731]]></date_creation>
-	<date_update><![CDATA[201606202006]]></date_update>
+	<date_update><![CDATA[201607301822]]></date_update>
 </document>

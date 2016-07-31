@@ -27,4 +27,22 @@
 		<email><![CDATA[]]></email>
 		<lang><![CDATA[fr]]></lang>
 	</user>
+	<user number="004" active="1" profil="1" delete="0">
+		<login><![CDATA[christophe.guillen]]></login>
+		<name><![CDATA[Christophe Guillen]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[9036917e1d1658c7d9e1592619d157966ff3d50e]]></password>
+		<salt><![CDATA[FlJR2rJXaF]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
+	<user number="005" active="1" profil="1" delete="0">
+		<login><![CDATA[fabien.viguier]]></login>
+		<name><![CDATA[Fabien Viguier]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[39ac1c250e4bed2149f26e874aa9ef1b895b2d1d]]></password>
+		<salt><![CDATA[qcBuTjTQTI]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
 </document>

@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document>
-	<title><![CDATA[Coupe de France de difficulté - Niort]]></title>
+	<title><![CDATA[Coupe de France 2015 - Niort]]></title>
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
-	<chapo><![CDATA[Une belle première place en catégorie Cadet !]]></chapo>
-	<content><![CDATA[<p>Les 12&13 mars était organisée à Niort la première étape de coupe de France d'escalade de difficulté de la saison.</p>
+	<chapo><![CDATA[<p>Une belle première place en catégorie Cadet !</p>]]></chapo>
+	<content><![CDATA[<p>Les 12&amp;13 mars était organisée à Niort la première étape de coupe de France d'escalade de difficulté de la saison.</p>
 
-<p>Plusieurs jeunes compétiteurs de  Drac Vercors Escalade ont fait le déplacement pour l'occasion. Chez les seniors, Raphaelle Korotchansky et Tristan Chaudière termineront demi finalistes, respectivement à la 16e et 14e place de cette catégorie très relevée.</p>
+<p>Plusieurs jeunes compétiteurs de Drac Vercors Escalade ont fait le déplacement pour l'occasion. Chez les seniors, Raphaelle Korotchansky et Tristan Chaudière termineront demi finalistes, respectivement à la 16e et 14e place de cette catégorie très relevée.</p>
 
-<p>Chez les cadets, au terme d'une compétition très serrée,  Louna Lavedant  remporte la finale et gagne cette  Coupe de France ! 
-C'est une première pour lui, mais aussi pour le club, classé 10e au niveau national en 2015. Félicitations à lui !</p>
+<p>Chez les cadets, au terme d'une compétition très serrée, Louna Lavedant remporte la finale et gagne cette Coupe de France ! C'est une première pour lui, mais aussi pour le club, classé 10e au niveau national en 2015. Félicitations à lui !</p>
 
-<p>Rendez-vous pour les jeunes compétiteurs, le week-end prochain 19 & 20 mars à Riom (Puy-de-Dôme) pour la deuxième étape de la Coupe de France. </p>]]></content>
+<p>Rendez-vous pour les jeunes compétiteurs, le week-end prochain 19 &amp; 20 mars à Riom (Puy-de-Dôme) pour la deuxième étape de la Coupe de France.</p>]]></content>
 	<tags><![CDATA[]]></tags>
 	<meta_description><![CDATA[]]></meta_description>
 	<meta_keywords><![CDATA[]]></meta_keywords>
@@ -20,5 +19,5 @@ C'est une première pour lui, mais aussi pour le club, classé 10e au niveau nat
 	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
 	<thumbnail_title><![CDATA[]]></thumbnail_title>
 	<date_creation><![CDATA[201606191723]]></date_creation>
-	<date_update><![CDATA[201606202007]]></date_update>
+	<date_update><![CDATA[201607301827]]></date_update>
 </document>

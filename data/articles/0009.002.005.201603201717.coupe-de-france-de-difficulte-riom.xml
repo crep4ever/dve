@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document>
-	<title><![CDATA[Coupe de France de difficulté - Riom]]></title>
+	<title><![CDATA[Coupe de France 2016 - Riom]]></title>
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
 	<chapo><![CDATA[]]></chapo>
 	<content><![CDATA[<p>Louna confirme avec une 7° place, Méris 16°, Maëlle 18°, Fernand 23°, Mattéo 26°. Félicitations !</p>
-<p>La suite au prochain numéro : à la "maison" à Voiron le week-end du 9 avril :) </p>
 
-<div class="button icon fa-camera"><a href="https://www.facebook.com/media/set/?set=a.993440900704400.1073741835.160141077367724&type=3">Photos</a></div>]]></content>
+<p>La suite au prochain numéro : à la "maison" à Voiron le week-end du 9 avril :)</p>
+
+<div class="button icon fa-camera"><a href="https://www.facebook.com/media/set/?set=a.993440900704400.1073741835.160141077367724&amp;type=3">Photos</a></div>]]></content>
 	<tags><![CDATA[]]></tags>
 	<meta_description><![CDATA[]]></meta_description>
 	<meta_keywords><![CDATA[]]></meta_keywords>
@@ -16,5 +17,5 @@
 	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
 	<thumbnail_title><![CDATA[]]></thumbnail_title>
 	<date_creation><![CDATA[201606191717]]></date_creation>
-	<date_update><![CDATA[201606202007]]></date_update>
+	<date_update><![CDATA[201607301834]]></date_update>
 </document>
