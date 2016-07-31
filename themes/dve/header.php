@@ -24,8 +24,8 @@
   <link rel="stylesheet" href="<?php $plxShow->template(); ?>/css/theme.css.php" media="screen"/>
   <?php $plxShow->templateCss() ?>
   <?php $plxShow->pluginsCss() ?>
-  <link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('ARTICLES_RSS_FEEDS') ?>" href="feed.php?rss" />
-  <link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="feed.php?rss/commentaires" />
+  <link rel="alternate" type="application/rss+xml" title="Drac Vercors Escalade - <?php $plxShow->lang('ARTICLES_RSS_FEEDS') ?>" href="feed.php?rss" />
+  <link rel="alternate" type="application/rss+xml" title="Drac Vercors Escalade - <?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="feed.php?rss/commentaires" />
 
   <?php if (isset($calendar) && $calendar == true) { ?>
     <link rel="stylesheet" href="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/fullcalendar.min.css" media="screen"/>
