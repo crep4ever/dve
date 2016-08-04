@@ -25,7 +25,7 @@ function staticUrl($p_static_id)
 
 <script>
 $(function() {
-  $( "#accordion" ).accordion({
+  $("#accordion:nth-child(1n)").accordion({
     collapsible: true,
     active: false,
     heightStyle: "content"
