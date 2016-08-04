@@ -28,8 +28,8 @@
   <link rel="alternate" type="application/rss+xml" title="Drac Vercors Escalade - <?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="feed.php?rss/commentaires" />
 
   <script src="<?php $plxShow->template(); ?>/js/jquery-3.0.0.min.js"></script>
-
   <link rel="stylesheet" href="<?php $plxShow->template(); ?>/jquery-ui-1.12.0/jquery-ui.min.css" media="screen"/>
+  <script src="<?php $plxShow->template(); ?>/jquery-ui-1.12.0/jquery-ui.min.js"></script>
 
   <?php if (isset($calendar) && $calendar == true) { ?>
     <link rel="stylesheet" href="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/fullcalendar.min.css" media="screen"/>
@@ -43,6 +43,7 @@
     $(document).ready(function() {
       $('#calendar').fullCalendar({
         googleCalendarApiKey: 'AIzaSyB0crUNeUUux1wteoUhrkgLXzc-CdoWwOU',
+        height: 650,
         events: {
           googleCalendarId: 'caf.fontaine@gmail.com'
         },

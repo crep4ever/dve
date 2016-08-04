@@ -1286,7 +1286,7 @@ Calendar
 
 @media (min-width: 1024px) {
   #calendar {
-    width: 60%;
+    width: 80%;
   }
 }
 
