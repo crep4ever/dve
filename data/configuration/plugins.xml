@@ -2,4 +2,5 @@
 <document>
 	<plugin name="ckeditor"></plugin>
 	<plugin name="plxMyComSmilies"></plugin>
+	<plugin name="artGalerie"></plugin>
 </document>

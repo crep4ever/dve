@@ -20,8 +20,8 @@
 	<parametre name="tri_coms"><![CDATA[asc]]></parametre>
 	<parametre name="images_l">800</parametre>
 	<parametre name="images_h">600</parametre>
-	<parametre name="miniatures_l">200</parametre>
-	<parametre name="miniatures_h">100</parametre>
+	<parametre name="miniatures_l">400</parametre>
+	<parametre name="miniatures_h">200</parametre>
 	<parametre name="thumbs">1</parametre>
 	<parametre name="medias"><![CDATA[data/medias/]]></parametre>
 	<parametre name="racine_articles"><![CDATA[data/articles/]]></parametre>

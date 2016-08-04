@@ -22,63 +22,87 @@ function staticUrl($p_static_id)
 </nav>
 
 <!-- *********************************************************************** -->
+
+<script>
+$(function() {
+  $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false,
+    heightStyle: "content"
+  });
+});
+</script>
+
 <section>
   <a class="anchor" id="activites"></a>
   <h2>Activités escalade</h2>
 
-
-
   <div class="grid">
     <div class="col lrg-6 med-6 sml-12">
+
       <h3>Progression/Loisirs</h3>
-        <h4>Jeunes Loisirs</h4>
+      <div id="accordion">
+        <h4>Jeunes Loisir</h4>
+        <div>
+          <div class="icon fa-clock-o">la veille au soir</div>
+          <p>Positionner les chaises, les barrières, les tapis, la sono ...</p>
+        </div>
+
+        <h4>Cours Adultes</h4>
+        <div>
+          <div class="icon fa-clock-o">la veille au soir</div>
+          <p>Positionner les chaises, les barrières, les tapis, la sono ...</p>
+        </div>
+
+        <h4>Pratique libre</h4>
+        <div>
+          <div class="icon fa-clock-o">la veille au soir</div>
+          <p>Positionner les chaises, les barrières, les tapis, la sono ...</p>
+        </div>
+      </div>
+
+        <h4>Cours Adultes</h4>
         <p>
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum."
         </p>
 
-        <p class="button">Plus d'infos</p>
-
-        <h4>Cours adultes</h4>
-        <p>
-          "Lorem ipsum dolor sit
-          amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat
-          nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id
-          est laborum."
-        </p>
         <p class="button">Plus d'infos</p>
 
         <h4>Pratique libre</h4>
         <p>
 
 Les murs d'escalade de deux gymnases - Gérard-Philipe à Fontaine et Fleming à Sassenage - sont accessibles plusieurs soirs par semaine en pratique libre.
-
 Les séances de Pratique Libre Adultes sont réservées aux grimpeurs autonomes en salle : pour s'inscrire, il est obligatoire de joindre ce document signée au dossier d'inscription.
-
-
-        </p>
-        <p class="button">Plus d'infos</p>
-
 Autres consignes : Chaque membre du club
 - dispose de son propre matériel (baudrier, chaussons, système d'assurage)
 - dispose de sa licence et de sa "ficelle", lors des séances de pratique libre
 - accède à la salle en chaussures de sport propres (ou se déchausser au vestiaire)
-- plie et range la corde utilisée à la fin de sa séance 
+- plie et range la corde utilisée à la fin de sa séance
 
+        </p>
+        <p class="button">Plus d'infos</p>
     </div>
+
+
+
 
     <div class="col lrg-6 med-6 sml-12">
       <h3>Entraînement/Compétition</h3>
+
+      <div id="accordion">
+        <h4>Cours Adultes</h4>
+        <div>
+          <div class="icon fa-clock-o">la veille au soir</div>
+          <p>Positionner les chaises, les barrières, les tapis, la sono ...</p>
+        </div>
+
+        <h4>Pratique libre</h4>
+        <div>
+          <div class="icon fa-clock-o">la veille au soir</div>
+          <p>Positionner les chaises, les barrières, les tapis, la sono ...</p>
+        </div>
+      </div>
 
 
         <h4>Entrainement compétition</h4>

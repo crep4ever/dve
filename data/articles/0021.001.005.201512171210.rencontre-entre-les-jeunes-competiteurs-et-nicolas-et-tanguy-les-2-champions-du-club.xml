@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document>
-	<title><![CDATA[Rencontre entre les jeunes compétiteurs et Nicolas et Tanguy les 2 champions du club]]></title>
+	<title><![CDATA[Rencontre entre les jeunes compétiteurs et Nicolas et Tanguy, les 2 champions du club]]></title>
 	<allow_com>1</allow_com>
 	<template><![CDATA[article.php]]></template>
-	<chapo><![CDATA[<p>Nicolas et Tanguy sont tous membres du Drac Vercors Escalade et de l'équipe de France d'Escalade.</p>]]></chapo>
+	<chapo><![CDATA[<p>Nicolas et Tanguy sont tous deux membres de Drac Vercors Escalade et de l'équipe de France d'Escalade.</p>]]></chapo>
 	<content><![CDATA[<p>Tanguy a 22 ans, il est originaire de la région de Chamonix. Il est membre du club depuis son arrivée sur Grenoble il y a 3 ans. Etudiant en 1ère année de &nbsp;Master STAPS (étude de sport), il est en équipe de France depuis cette année, il a participé à 2 coupes du monde d'escalade en 2015. Au sein du club, il entraîne un groupe d'adultes et participe à des entraînements du groupe compétitions des jeunes.</p>
 
 <p>Nicolas a 18 ans, il habite à Saint Ismier. Il est au club depuis cette année, il est originaire du club de Crolles. Il est en 1ère année de STAPS. Il a été Vice champion du monde junior de blocs en 2015, 3 fois champion de France&nbsp;: 2 fois en &nbsp;difficulté, 1 fois en blocs.</p>
@@ -227,5 +227,6 @@
 	<thumbnail_alt><![CDATA[]]></thumbnail_alt>
 	<thumbnail_title><![CDATA[]]></thumbnail_title>
 	<date_creation><![CDATA[201607301210]]></date_creation>
-	<date_update><![CDATA[201607301213]]></date_update>
+	<date_update><![CDATA[201608042149]]></date_update>
+	<galerie><![CDATA[]]></galerie>
 </document>

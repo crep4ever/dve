@@ -117,7 +117,7 @@ function staticUrl($p_static_id)
   <h1>L'actualité du club</h1>
 
   <ul>
-    <?php $plxShow->catList('', '<li id="#cat_id" class="#cat_status"><a href="#cat_url" title="#cat_name">#cat_name&nbsp;(#art_nb)</a></li>') ?>
+    <?php $plxShow->catList('', '<li id="#cat_id" class="#cat_status"><a href="#cat_url" title="#cat_name">#cat_name (#art_nb)</a></li>') ?>
   </ul>
 </nav>
 
