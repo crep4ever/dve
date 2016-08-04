@@ -29,8 +29,7 @@
 
   <script src="<?php $plxShow->template(); ?>/js/jquery-3.0.0.min.js"></script>
 
-  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+  <link rel="stylesheet" href="<?php $plxShow->template(); ?>/jquery-ui-1.12.0/jquery-ui.min.css" media="screen"/>
 
   <?php if (isset($calendar) && $calendar == true) { ?>
     <link rel="stylesheet" href="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/fullcalendar.min.css" media="screen"/>
