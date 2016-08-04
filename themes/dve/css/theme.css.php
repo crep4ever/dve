@@ -1010,7 +1010,7 @@ main.main {
   width: 100%;
 }
 .repertory {
-  margin-top: 0.2rem;
+  margin-top: 1.5rem;
 }
 .pagination a {
   background-color: #258fd6;
@@ -1137,7 +1137,8 @@ header.main {
 
 /* ---------- Aside ---------- */
 .aside {
-  padding-left: 3rem;
+  font-size: 95%;
+  padding-left: 2rem;
   background: <?php echo $color_secondary_light ?>; /* For browsers that do not support gradients */
   background: linear-gradient(<?php echo $color_secondary_light ?>, white); /* Standard syntax */
 }

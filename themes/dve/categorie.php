@@ -4,12 +4,6 @@
 
   <section class="col lrg-8 med-12 sml-12">
 
-    <small>
-      <ul class="horizontal align-right">
-        <?php $plxShow->catList('', '<li id="#cat_id" class="#cat_status"><a href="#cat_url" title="#cat_name">#cat_name&nbsp;(#art_nb)</a></li>') ?>
-      </ul>
-    </small>
-
     <ul class="repertory menu breadcrumb">
       <li><a href="<?php $plxShow->racine() ?>"><?php $plxShow->lang('HOME'); ?></a></li>
       <li>
