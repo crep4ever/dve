@@ -154,11 +154,12 @@ background-size: cover;
 *******************************************************************************/
 .horizontal {
   list-style: none;
-  margin: auto;
+  margin: 1em auto;
 }
 
 .horizontal li {
   display: inline;
+  padding: 0 1em;
 }
 
 ul.icons {
@@ -1009,7 +1010,7 @@ main.main {
   width: 100%;
 }
 .repertory {
-  margin-top: 2rem;
+  margin-top: 0.2rem;
 }
 .pagination a {
   background-color: #258fd6;
@@ -1338,4 +1339,29 @@ section.newsletter {
   position: absolute;
   top: 250px;
   white-space: nowrap;
+}
+
+.album {
+  display: block;
+  margin: 2em auto;
+}
+
+.album .Titre {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 1em auto;
+  text-align: left;
+}
+
+.gallery-thumbnail .gallery-thumbnail-img img {
+  width: 180px;
+  height: 120px;
+  max-width:100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.gallery-thumbnail .gallery-thumbnail-img {
+  width: 180px;
+  height: 120px;
 }

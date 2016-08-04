@@ -27,9 +27,13 @@
   <link rel="alternate" type="application/rss+xml" title="Drac Vercors Escalade - <?php $plxShow->lang('ARTICLES_RSS_FEEDS') ?>" href="feed.php?rss" />
   <link rel="alternate" type="application/rss+xml" title="Drac Vercors Escalade - <?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="feed.php?rss/commentaires" />
 
+  <script src="<?php $plxShow->template(); ?>/js/jquery-3.0.0.min.js"></script>
+
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
   <?php if (isset($calendar) && $calendar == true) { ?>
     <link rel="stylesheet" href="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/fullcalendar.min.css" media="screen"/>
-    <script src="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/lib/jquery.min.js"></script>
     <script src="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/lib/moment.min.js"></script>
     <script src="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/fullcalendar.min.js"></script>
     <script src="<?php $plxShow->template(); ?>/fullcalendar-2.9.0/lang/fr.js"></script>
@@ -80,6 +84,7 @@
   </head>
 
   <body id="top">
+
     <?php include_once("analyticstracking.php") ?>
 
     <header class="header sml-text-center med-text-left" role="banner">
