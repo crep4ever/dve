@@ -87,6 +87,13 @@
 
     <?php include_once("analyticstracking.php") ?>
 
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">
+      La version de votre navigateur internet est <strong>obsolète</strong>.
+      Pensez à le <a href="http://browsehappy.com/">mettre à jour</a> afin d'améliorer votre expérience.
+    </p>
+    <![endif]-->
+
     <header class="header sml-text-center med-text-left" role="banner">
       <div class="grid">
         <div class="col lrg-6 med-5 sml-12">

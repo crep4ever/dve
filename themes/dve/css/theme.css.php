@@ -186,11 +186,11 @@ Browser Upgrade Prompt
   position: fixed;
   bottom: 0;
   right: 0;
-  opacity: 0.8;
-  border-radius: 1em;
+  border-radius: 0.2em;
   border-style: solid;
   border-width: 0.2em;
   border-color: <?php echo $color_primary_medium ?>;
+  z-index: 1;
 }
 
 /******************************************************************************
