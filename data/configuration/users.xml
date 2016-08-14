@@ -45,4 +45,13 @@
 		<email><![CDATA[]]></email>
 		<lang><![CDATA[fr]]></lang>
 	</user>
+	<user number="006" active="1" profil="4" delete="0">
+		<login><![CDATA[dve]]></login>
+		<name><![CDATA[DVE]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[d0cb45e0b2a3f5acb6fa04bfc5e3ff3b13f7074e]]></password>
+		<salt><![CDATA[rQIrtzsWcc]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
 </document>
