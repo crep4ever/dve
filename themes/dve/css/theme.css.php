@@ -1355,14 +1355,14 @@ section.newsletter {
 }
 
 .gallery-thumbnail .gallery-thumbnail-img img {
-  width: 180px;
-  height: 120px;
+  width: 140px;
+  height: 100px;
   max-width:100%;
   max-height: 100%;
   object-fit: cover;
 }
 
 .gallery-thumbnail .gallery-thumbnail-img {
-  width: 180px;
-  height: 120px;
+  width: 140px;
+  height: 100px;
 }
