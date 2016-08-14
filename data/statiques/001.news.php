@@ -44,6 +44,9 @@ function staticUrl($p_static_id)
           <a class="icon fa-facebook-square fa-2x" href="https://www.facebook.com/Drac-Vercors-Escalade-160141077367724/?fref=ts"></a>
         </li>
         <li>
+          <a class="icon fa-google-plus-square fa-2x" href="https://plus.google.com/106253265394319628557"></a>
+        </li>
+        <li>
           <a class="icon fa-rss-square fa-2x" href=<?php staticUrl('020') ?> ></a>
         </li>
         <li>
